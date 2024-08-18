@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"charliex",
+	"description":	{
+		"":	"FermatSpiral rddit post"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
